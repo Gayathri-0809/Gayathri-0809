@@ -9,7 +9,7 @@
 - 🌱 Currently building **X-SHIELD**, an AI-powered Intrusion Detection & Prevention System  
 - 💻 I love crafting secure tools, soft UI, and spicy Python scripts  
 - 📬 Reach me: [gayathriramakrishnan0206@gmail.com](mailto:gayathriramakrishnan0206@gmail.com)  
-- 🧠 Aiming to freelance and earn ₹20 Lakhs in 6 months  
+- 🧠 Aiming to freelance  
 - 📍 Based in India | 💙 Open to Remote Internships
 
 ---
