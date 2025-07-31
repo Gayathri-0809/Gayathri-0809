@@ -35,8 +35,7 @@
 
 ### 🌸 Fun Vibes
 - 💖 I believe in building powerful tools with soft energy  
-- 💸 On a journey to freelance success (₹20L in 6 months goal!)  
-- 🎥 YouTube coming soon with animated chaos, career glow-ups & real talk  
+- 💸 On a journey to freelance success 
 
 ---
 
