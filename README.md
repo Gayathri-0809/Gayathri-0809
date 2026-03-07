@@ -1,92 +1,142 @@
 # Hi, I'm Gayathri 👩‍💻
 
-💻 Web Developer | 🔐 Cybersecurity Enthusiast | 🐍 Python Developer  
-🎓 Computer Science Student | Seeking Internship Opportunities  
+### 💻 Python Developer | 🔐 Cybersecurity Enthusiast | 🌐 Web Development  
+🎓 Computer Science Student | Actively Seeking Internship Opportunities  
+
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science student passionate about cybersecurity and backend development.
+- Computer Science student passionate about **cybersecurity, backend development, and machine learning applications**
 
-🔐 Currently building **X-SHIELD**, an AI-powered Intrusion Detection & Prevention System.
+- Interested in building **secure systems, automation tools, and real-world security solutions**
 
-💻 I enjoy developing secure applications, cybersecurity tools, and Python-based automation systems.
+- Always learning and improving my skills through **hands-on projects**
+
+- Currently looking for **internship opportunities to gain industry experience**
+
 
 📍 Based in India  
-🌍 Open to remote internships and collaboration opportunities  
+🌍 Open to **Remote Internship Opportunities**  
 
-📬 Reach me: **gayathriramakrishnan0206@gmail.com**
+📧 **Email:** gayathriramakrishnan0206@gmail.com
 
----
-
-## 🚀 Featured Projects
-
-### 🔐 Flask Auth App
-Secure authentication system built with Flask featuring login, registration, session management, and password hashing.
-
-### 📧 Email Phishing Detector
-Machine learning based phishing detection tool that analyzes email content and flags potentially malicious emails through a Flask web interface.
-
-### 🛡️ X-SHIELD (Ongoing)
-AI-powered Intrusion Detection & Prevention System that monitors network activity, detects suspicious traffic, and provides real-time alerts and IP blocking.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
 
-**Languages**
-- Python
-- JavaScript
-- HTML
-- CSS
 
-**Frameworks**
-- Flask
-- Streamlit
+### 🔐 Flask Authentication System
 
-**Tools**
-- Git
-- GitHub
+Secure authentication system built with **Flask** that includes:
+
+- User Registration  
+- Login System  
+- Session Management  
+- Password Validation  
+
 
 ---
 
-## 🧠 Skills
+### 📧 Email Phishing Detection System
 
-- Python Programming
-- Cybersecurity Basics
-- Network Security
-- Machine Learning Basics
-- NLP (Natural Language Processing)
-- Flask Web Development
-- Git & GitHub
+Machine learning based application that:
+
+- Analyzes email content  
+- Detects potential phishing messages  
+- Uses **NLP techniques** for classification  
+
 
 ---
 
-## 🎯 Interests
+### 🔎 Python Port Scanner
+
+A cybersecurity tool that:
+
+- Scans a target host  
+- Identifies **open ports**  
+- Uses **Python socket programming**  
+
+
+---
+
+### 🔑 Password Strength Checker
+
+Security tool that evaluates password strength based on:
+
+- Password length  
+- Character variety  
+- Complexity rules  
+
+
+---
+
+### 📄 Resume Analyzer
+
+A **Streamlit-based application** that:
+
+- Analyzes resumes using **NLP**
+- Extracts skills and important information
+- Helps evaluate resume quality
+
+
+---
+
+# 🛠 Technical Skills
+
+
+### Programming Languages
+
+- Python  
+- JavaScript  
+- HTML  
+- CSS  
+
+
+### Frameworks & Libraries
+
+- Flask  
+- Streamlit  
+- Scikit-learn  
+- Pandas  
+- NumPy  
+
+
+### Tools & Technologies
+
+- Git  
+- GitHub  
+- VS Code  
+- Linux Basics  
+
+
+---
+
+# 🎯 Areas of Interest
 
 - Cybersecurity Tools  
+- Network Security  
 - Machine Learning Applications  
 - Secure Web Development  
 
----
-
-## 📫 Connect with Me
-
-📧 Email: gayathriramakrishnan0206@gmail.com  
-🌐 GitHub: https://github.com/Gayathri-0809  
-💼 Internshala: Active Profile  
 
 ---
 
-## 📊 GitHub Stats
+# 📫 Connect With Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayathri-0809&show_icons=true)
+📧 **Email**  
+gayathriramakrishnan0206@gmail.com  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-0809)
+🌐 **GitHub**  
+https://github.com/Gayathri-0809  
+
+💼 **Internshala**  
+Active Profile
 
 
-### 📫 Connect with Me
-- 📧 [gayathriramakrishnan0206@gmail.com](mailto:gayathriramakrishnan0206@gmail.com)
-- 🌐 [GitHub](https://github.com/Gayathri-0809)
-- 💼 [Internshala (Active)](https://internshala.com/)
+---
+
+⭐ *Open to learning, collaboration, and internship opportunities.*
+
