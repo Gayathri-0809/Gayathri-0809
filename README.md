@@ -3,7 +3,7 @@
 # Hi, I'm Gayathri! 👋👩‍💻
 
 ### 🧠 Aspiring AI Engineer & Security Enthusiast  
-🎓 **Computer Science Student (Class of 2027)** | Open to AI/ML & Placement Opportunities  
+🎓 **B.E Computer Science Student (Class of 2027)** | Open to AI/ML & Placement Opportunities  
 
 ---
 
